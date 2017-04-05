@@ -1,0 +1,53 @@
+main {
+    height: 500px;
+    width: 800px;
+    font-size: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.up {
+    display: inline-block;
+    font-size: 0;
+}
+
+.green {
+    width: 50%;
+    height: 200px;
+    background-color: green;
+    border: 1px black solid;
+}
+
+.blue {
+    width: 50%;
+    height: 200px;
+    background-color: blue;
+    border: 1px black solid;
+}
+
+.down {
+    display: inline-block;
+    font-size: 0;
+}
+
+.grey {
+    height: 300px;
+    width: 33.33%;
+    background-color: grey;
+    border: 1px black solid;
+}
+
+.black {
+    height: 300px;
+    width: 33.33%;
+    background-color: black;
+    border: 1px black solid;
+}
+
+.orange {
+    height: 300px;
+    width: 33.33%;
+    background-color: orange;
+    border: 1px black solid;
+}
